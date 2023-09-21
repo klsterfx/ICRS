@@ -1,2 +1,2 @@
 # ICRS
-Indian College REcommendation System
+Indian College Recommendation System
